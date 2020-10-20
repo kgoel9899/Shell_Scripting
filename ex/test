@@ -1,0 +1,9 @@
+#!/bin/bash
+for car in date pwd
+do
+echo "car make (list) $car" $($car)
+done
+for i in 1 2
+do
+echo "$i * $i = " $(($i * $i))
+done

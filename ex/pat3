@@ -1,0 +1,14 @@
+#!/bin/bash
+for i in {1..5}
+do
+for((sp=5-$i;sp>0;sp=sp-1))
+do
+echo -n " "
+done
+for((j=1;j<=i;j=j+1))
+do
+echo -n "$i "
+done
+echo
+done
+

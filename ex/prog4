@@ -1,0 +1,5 @@
+#!/bin/bash
+db=$3
+st=$1
+end=$2
+tail -n +$st $db | head -n $end

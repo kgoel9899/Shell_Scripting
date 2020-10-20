@@ -1,0 +1,55 @@
+#!/bin/bash
+tot=$#
+if(($tot < 2))
+then
+	echo "Help"
+else
+	if(($tot >= 2))
+	then
+		fir=$1
+		sec=$2
+		if(($fir>$sec))
+		then
+			echo "Help another"
+		else
+			if(($tot == 2))
+			then
+				for((i=$fir;i<=$sec;i=i+1))
+				do
+					if(($i % 2 == 0))
+					then				
+						echo "$i"
+					fi
+				done
+			else
+				thi=$3
+				if(($thi==2))
+				then
+					for((i=$fir;i<=$sec;i=i+1))
+					do
+						if(($i % 2 == 0))
+						then				
+							echo -n "$i "
+						fi
+					done
+					echo
+				else
+					ct=0
+					for((i=$fir;i<=$sec;i=i+1))
+					do
+						if(($i % 2 == 0))
+						then				
+							echo -n "$i "
+							ct=$(($ct+1))
+						fi
+						if(($ct==10))
+						then
+							echo
+							ct=0
+						fi
+					done
+				fi
+			fi
+		fi
+	fi
+fi

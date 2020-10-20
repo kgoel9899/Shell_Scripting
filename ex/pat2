@@ -1,0 +1,11 @@
+#!/bin/bash
+i=1
+for i in {1..5}
+do
+for((j=1;j<=i;j=j+1))
+do
+echo -n "$j "
+done
+echo
+done
+

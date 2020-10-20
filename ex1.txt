@@ -1,0 +1,251 @@
+Script started on Thursday 07 May 2020 10:02:03 PM IST
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: ~[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m~[00m$ cd
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: ~[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m~[00m$ pwd
+/home/kgoel9899
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: ~[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m~[00m$ cd /bin
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /bin[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/bin[00m$ cd ../etc
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ ls -l [K[Kl ../bin
+total 13012
+-rwxr-xr-x 1 root root 1037528 Jul 13  2019 [0m[01;32mbash[0m
+-rwxr-xr-x 3 root root   31352 Jul  4  2019 [01;32mbunzip2[0m
+-rwxr-xr-x 1 root root 1984584 Mar  7  2019 [01;32mbusybox[0m
+-rwxr-xr-x 3 root root   31352 Jul  4  2019 [01;32mbzcat[0m
+lrwxrwxrwx 1 root root       6 Jul  4  2019 [01;36mbzcmp[0m -> [01;32mbzdiff[0m
+-rwxr-xr-x 1 root root    2140 Jul  4  2019 [01;32mbzdiff[0m
+lrwxrwxrwx 1 root root       6 Jul  4  2019 [01;36mbzegrep[0m -> [01;32mbzgrep[0m
+-rwxr-xr-x 1 root root    4877 Jul  4  2019 [01;32mbzexe[0m
+lrwxrwxrwx 1 root root       6 Jul  4  2019 [01;36mbzfgrep[0m -> [01;32mbzgrep[0m
+-rwxr-xr-x 1 root root    3642 Jul  4  2019 [01;32mbzgrep[0m
+-rwxr-xr-x 3 root root   31352 Jul  4  2019 [01;32mbzip2[0m
+-rwxr-xr-x 1 root root   14672 Jul  4  2019 [01;32mbzip2recover[0m
+lrwxrwxrwx 1 root root       6 Jul  4  2019 [01;36mbzless[0m -> [01;32mbzmore[0m
+-rwxr-xr-x 1 root root    1297 Jul  4  2019 [01;32mbzmore[0m
+-rwxr-xr-x 1 root root   52080 Mar  2  2017 [01;32mcat[0m
+-rwxr-xr-x 1 root root   14752 Feb  7  2016 [01;32mchacl[0m
+-rwxr-xr-x 1 root root   60272 Mar  2  2017 [01;32mchgrp[0m
+-rwxr-xr-x 1 root root   56112 Mar  2  2017 [01;32mchmod[0m
+-rwxr-xr-x 1 root root   64368 Mar  2  2017 [01;32mchown[0m
+-rwxr-xr-x 1 root root   10536 Sep 22  2016 [01;32mchvt[0m
+-rwxr-xr-x 1 root root  151024 Mar  2  2017 [01;32mcp[0m
+-rwxr-xr-x 1 root root  141472 Nov  5  2019 [01;32mcpio[0m
+-rwxr-xr-x 1 root root  154072 Feb 18  2016 [01;32mdash[0m
+-rwxr-xr-x 1 root root   68464 Mar  2  2017 [01;32mdate[0m
+-rwxr-xr-x 1 root root   72632 Mar  2  2017 [01;32mdd[0m
+-rwxr-xr-x 1 root root   97912 Mar  2  2017 [01;32mdf[0m
+-rwxr-xr-x 1 root root  126584 Mar  2  2017 [01;32mdir[0m
+-rwxr-xr-x 1 root root   60680 Oct 10  2019 [01;32mdmesg[0m
+lrwxrwxrwx 1 root root       8 Nov  8 03:10 [01;36mdnsdomainname[0m -> [01;32mhostname[0m
+lrwxrwxrwx 1 root root       8 Nov  8 03:10 [01;36mdomainname[0m -> [01;32mhostname[0m
+-rwxr-xr-x 1 root root   82328 Sep 22  2016 [01;32mdumpkeys[0m
+-rwxr-xr-x 1 root root   31376 Mar  2  2017 [01;32mecho[0m
+-rwxr-xr-x 1 root root   51512 Apr 26  2014 [01;32med[0m
+-rwxr-xr-x 1 root root   36504 Jul 14  2015 [01;32mefibootmgr[0m
+-rwxr-xr-x 1 root root      28 Apr 29  2016 [01;32megrep[0m
+-rwxr-xr-x 1 root root   27280 Mar  2  2017 [01;32mfalse[0m
+-rwxr-xr-x 1 root root   10544 Sep 22  2016 [01;32mfgconsole[0m
+-rwxr-xr-x 1 root root      28 Apr 29  2016 [01;32mfgrep[0m
+-rwxr-xr-x 1 root root   49576 Oct 10  2019 [01;32mfindmnt[0m
+-rwxr-xr-x 1 root root   36024 Aug 21  2019 [01;32mfuser[0m
+-rwsr-xr-x 1 root root   30800 Jul 12  2016 [37;41mfusermount[0m
+-rwxr-xr-x 1 root root   23752 Feb  7  2016 [01;32mgetfacl[0m
+-rwxr-xr-x 1 root root  211224 Apr 29  2016 [01;32mgrep[0m
+-rwxr-xr-x 1 root root    2301 Oct 27  2014 [01;32mgunzip[0m
+-rwxr-xr-x 1 root root    5927 Oct 27  2014 [01;32mgzexe[0m
+-rwxr-xr-x 1 root root   98240 Oct 27  2014 [01;32mgzip[0m
+-rwxr-xr-x 1 root root  192760 Sep 12  2017 [01;32mhciconfig[0m
+-rwxr-xr-x 1 root root   14800 Nov 24  2015 [01;32mhostname[0m
+-rwxr-xr-x 1 root root  376192 Apr 16  2019 [01;32mip[0m
+-rwxr-xr-x 1 root root  498912 Jun 27  2019 [01;32mjournalctl[0m
+-rwxr-xr-x 1 root root   10536 Sep 22  2016 [01;32mkbd_mode[0m
+-rwxr-xr-x 1 root root   23152 May 14  2018 [01;32mkill[0m
+-rwxr-xr-x 1 root root  150600 Nov 13  2018 [01;32mkmod[0m
+-rwxr-xr-x 1 root root  170728 Apr  5  2017 [01;32mless[0m
+-rwxr-xr-x 1 root root   10256 Apr  5  2017 [01;32mlessecho[0m
+lrwxrwxrwx 1 root root       8 Nov  8 03:10 [01;36mlessfile[0m -> [01;32mlesspipe[0m
+-rwxr-xr-x 1 root root   19824 Apr  5  2017 [01;32mlesskey[0m
+-rwxr-xr-x 1 root root    7764 Apr  5  2017 [01;32mlesspipe[0m
+-rwxr-xr-x 1 root root   56152 Mar  2  2017 [01;32mln[0m
+-rwxr-xr-x 1 root root  111496 Sep 22  2016 [01;32mloadkeys[0m
+-rwxr-xr-x 1 root root   48128 Mar 27  2019 [01;32mlogin[0m
+-rwxr-xr-x 1 root root  453856 Jun 27  2019 [01;32mloginctl[0m
+-rwxr-xr-x 1 root root  105136 Mar 22  2019 [01;32mlowntfs-3g[0m
+-rwxr-xr-x 1 root root  126584 Mar  2  2017 [01;32mls[0m
+-rwxr-xr-x 1 root root   77280 Oct 10  2019 [01;32mlsblk[0m
+lrwxrwxrwx 1 root root       4 Nov  8 03:10 [01;36mlsmod[0m -> [01;32mkmod[0m
+-rwxr-xr-x 1 root root   76848 Mar  2  2017 [01;32mmkdir[0m
+-rwxr-xr-x 1 root root   64496 Mar  2  2017 [01;32mmknod[0m
+-rwxr-xr-x 1 root root   39728 Mar  2  2017 [01;32mmktemp[0m
+-rwxr-xr-x 1 root root   39768 Oct 10  2019 [01;32mmore[0m
+-rwsr-xr-x 1 root root   40152 Oct 10  2019 [37;41mmount[0m
+-rwxr-xr-x 1 root root   14768 Oct 10  2019 [01;32mmountpoint[0m
+lrwxrwxrwx 1 root root      20 Nov  8 03:10 [01;36mmt[0m -> [01;32m/etc/alternatives/mt[0m
+-rwxr-xr-x 1 root root   68824 Nov  5  2019 [01;32mmt-gnu[0m
+-rwxr-xr-x 1 root root  130488 Mar  2  2017 [01;32mmv[0m
+-rwxr-xr-x 1 root root  208480 Feb 15  2017 [01;32mnano[0m
+lrwxrwxrwx 1 root root      20 Nov  8 03:10 [01;36mnc[0m -> [01;32m/etc/alternatives/nc[0m
+-rwxr-xr-x 1 root root   31248 Dec  4  2012 [01;32mnc.openbsd[0m
+lrwxrwxrwx 1 root root      24 Nov  8 03:10 [01;36mnetcat[0m -> [01;32m/etc/alternatives/netcat[0m
+-rwxr-xr-x 1 root root  119624 Jun 30  2014 [01;32mnetstat[0m
+-rwxr-xr-x 1 root root  678496 Jun 27  2019 [01;32mnetworkctl[0m
+lrwxrwxrwx 1 root root       8 Nov  8 03:10 [01;36mnisdomainname[0m -> [01;32mhostname[0m
+-rwxr-xr-x 1 root root  142032 Mar 22  2019 [01;32mntfs-3g[0m
+-rwxr-xr-x 1 root root   10312 Mar 22  2019 [01;32mntfs-3g.probe[0m
+-rwxr-xr-x 1 root root   67608 Mar 22  2019 [01;32mntfs-3g.secaudit[0m
+-rwxr-xr-x 1 root root   18424 Mar 22  2019 [01;32mntfs-3g.usermap[0m
+-rwxr-xr-x 1 root root   26728 Mar 22  2019 [01;32mntfscat[0m
+-rwxr-xr-x 1 root root   30824 Mar 22  2019 [01;32mntfscluster[0m
+-rwxr-xr-x 1 root root   34920 Mar 22  2019 [01;32mntfscmp[0m
+-rwxr-xr-x 1 root root   34928 Mar 22  2019 [01;32mntfsfallocate[0m
+-rwxr-xr-x 1 root root   39024 Mar 22  2019 [01;32mntfsfix[0m
+-rwxr-xr-x 1 root root   55416 Mar 22  2019 [01;32mntfsinfo[0m
+-rwxr-xr-x 1 root root   31928 Mar 22  2019 [01;32mntfsls[0m
+-rwxr-xr-x 1 root root   30824 Mar 22  2019 [01;32mntfsmove[0m
+-rwxr-xr-x 1 root root   38944 Mar 22  2019 [01;32mntfstruncate[0m
+-rwxr-xr-x 1 root root   47752 Mar 22  2019 [01;32mntfswipe[0m
+lrwxrwxrwx 1 root root       6 Nov  8 03:10 [01;36mopen[0m -> [01;32mopenvt[0m
+-rwxr-xr-x 1 root root   18968 Sep 22  2016 [01;32mopenvt[0m
+lrwxrwxrwx 1 root root      14 Nov  8 03:10 [01;36mpidof[0m -> [01;32m/sbin/killall5[0m
+-rwsr-xr-x 1 root root   44168 May  8  2014 [37;41mping[0m
+-rwsr-xr-x 1 root root   44680 May  8  2014 [37;41mping6[0m
+-rwxr-xr-x 1 root root   39608 May  9  2018 [01;32mplymouth[0m
+-rwxr-xr-x 1 root root   97408 May 14  2018 [01;32mps[0m
+-rwxr-xr-x 1 root root   31472 Mar  2  2017 [01;32mpwd[0m
+lrwxrwxrwx 1 root root       4 Jul 13  2019 [01;36mrbash[0m -> [01;32mbash[0m
+-rwxr-xr-x 1 root root   39632 Mar  2  2017 [01;32mreadlink[0m
+-rwxr-xr-x 1 root root      89 Apr 26  2014 [01;32mred[0m
+-rwxr-xr-x 1 root root   60272 Mar  2  2017 [01;32mrm[0m
+-rwxr-xr-x 1 root root   39632 Mar  2  2017 [01;32mrmdir[0m
+lrwxrwxrwx 1 root root       4 Nov  8 03:10 [01;36mrnano[0m -> [01;32mnano[0m
+-rwxr-xr-x 1 root root   19320 Jan 26  2016 [01;32mrun-parts[0m
+-rwxr-xr-x 1 root root   73424 Feb 12  2016 [01;32msed[0m
+-rwxr-xr-x 1 root root   36296 Feb  7  2016 [01;32msetfacl[0m
+-rwxr-xr-x 1 root root   39952 Sep 22  2016 [01;32msetfont[0m
+-rwxr-xr-x 1 root root   30690 Apr 11  2019 [01;32msetupcon[0m
+lrwxrwxrwx 1 root root       4 Nov  8 03:10 [01;36msh[0m -> [01;32mdash[0m
+lrwxrwxrwx 1 root root       4 Nov  8 03:10 [01;36msh.distrib[0m -> [01;32mdash[0m
+-rwxr-xr-x 1 root root   31408 Mar  2  2017 [01;32msleep[0m
+-rwxr-xr-x 1 root root  115816 Apr 16  2019 [01;32mss[0m
+lrwxrwxrwx 1 root root       7 Mar  7  2019 [01;36mstatic-sh[0m -> [01;32mbusybox[0m
+-rwxr-xr-x 1 root root   72496 Mar  2  2017 [01;32mstty[0m
+-rwsr-xr-x 1 root root   40128 Mar 27  2019 [37;41msu[0m
+-rwxr-xr-x 1 root root   31408 Mar  2  2017 [01;32msync[0m
+-rwxr-xr-x 1 root root  663952 Jun 27  2019 [01;32msystemctl[0m
+lrwxrwxrwx 1 root root      20 Jun 27  2019 [01;36msystemd[0m -> [01;32m/lib/systemd/systemd[0m
+-rwxr-xr-x 1 root root   51656 Jun 27  2019 [01;32msystemd-ask-password[0m
+-rwxr-xr-x 1 root root   39344 Jun 27  2019 [01;32msystemd-escape[0m
+-rwxr-xr-x 1 root root   64080 Jun 27  2019 [01;32msystemd-hwdb[0m
+-rwxr-xr-x 1 root root  281840 Jun 27  2019 [01;32msystemd-inhibit[0m
+-rwxr-xr-x 1 root root   47544 Jun 27  2019 [01;32msystemd-machine-id-setup[0m
+-rwxr-xr-x 1 root root   35248 Jun 27  2019 [01;32msystemd-notify[0m
+-rwxr-xr-x 1 root root  146008 Jun 27  2019 [01;32msystemd-tmpfiles[0m
+-rwxr-xr-x 1 root root   68032 Jun 27  2019 [01;32msystemd-tty-ask-password-agent[0m
+-rwxr-xr-x 1 root root   23144 Oct 10  2019 [01;32mtailf[0m
+-rwxr-xr-x 1 root root  383632 Nov 17  2016 [01;32mtar[0m
+-rwxr-xr-x 1 root root   10416 Jan 26  2016 [01;32mtempfile[0m
+-rwxr-xr-x 1 root root   64432 Mar  2  2017 [01;32mtouch[0m
+-rwxr-xr-x 1 root root   27280 Mar  2  2017 [01;32mtrue[0m
+-rwxr-xr-x 1 root root  449136 Jun 27  2019 [01;32mudevadm[0m
+-rwxr-xr-x 1 root root   14328 Jul 12  2016 [01;32mulockmgr_server[0m
+-rwsr-xr-x 1 root root   27608 Oct 10  2019 [37;41mumount[0m
+-rwxr-xr-x 1 root root   31440 Mar  2  2017 [01;32muname[0m
+-rwxr-xr-x 1 root root    2301 Oct 27  2014 [01;32muncompress[0m
+-rwxr-xr-x 1 root root    2762 Sep 22  2016 [01;32municode_start[0m
+-rwxr-xr-x 1 root root  126584 Mar  2  2017 [01;32mvdir[0m
+-rwxr-xr-x 1 root root   31376 Oct 10  2019 [01;32mwdctl[0m
+-rwxr-xr-x 1 root root     946 Jan 26  2016 [01;32mwhich[0m
+-rwxr-xr-x 1 root root   27432 Jan 19  2016 [01;32mwhiptail[0m
+lrwxrwxrwx 1 root root       8 Nov  8 03:10 [01;36mypdomainname[0m -> [01;32mhostname[0m
+-rwxr-xr-x 1 root root    1937 Oct 27  2014 [01;32mzcat[0m
+-rwxr-xr-x 1 root root    1777 Oct 27  2014 [01;32mzcmp[0m
+-rwxr-xr-x 1 root root    5764 Oct 27  2014 [01;32mzdiff[0m
+-rwxr-xr-x 1 root root     140 Oct 27  2014 [01;32mzegrep[0m
+-rwxr-xr-x 1 root root     140 Oct 27  2014 [01;32mzfgrep[0m
+-rwxr-xr-x 1 root root    2131 Oct 27  2014 [01;32mzforce[0m
+-rwxr-xr-x 1 root root    5938 Oct 27  2014 [01;32mzgrep[0m
+-rwxr-xr-x 1 root root    2037 Oct 27  2014 [01;32mzless[0m
+-rwxr-xr-x 1 root root    1910 Oct 27  2014 [01;32mzmore[0m
+-rwxr-xr-x 1 root root    5047 Oct 27  2014 [01;32mznew[0m
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ cd[K[Kls -l ../home/kgoel9899
+total 119812
+-rw-rw-r-- 1 kgoel9899 kgoel9899    18136 May  7 22:01 3st.txt
+drwxrwxr-x 2 kgoel9899 kgoel9899     4096 Feb  1 17:07 [0m[01;34mabc.txt[0m
+drwxrwxr-x 2 kgoel9899 kgoel9899     4096 May  7 21:59 [01;34mace[0m
+drwxrwxr-x 4 kgoel9899 kgoel9899     4096 Feb 26 12:53 [01;34mArduino[0m
+drwxrwxr-x 3 kgoel9899 kgoel9899     4096 May  7 21:41 [01;34mbash-wakatime[0m
+drwxrwxr-x 5 kgoel9899 kgoel9899     4096 Nov  8 01:09 [01;34mcatkin_ws[0m
+drwxr-xr-x 4 kgoel9899 kgoel9899     4096 May  7 21:35 [01;34mDesktop[0m
+drwxr-xr-x 2 kgoel9899 kgoel9899     4096 Nov  8 08:44 [01;34mDocuments[0m
+drwxr-xr-x 2 kgoel9899 kgoel9899     4096 May  7 18:52 [01;34mDownloads[0m
+-rw-rw-r-- 1 kgoel9899 kgoel9899     8192 May  7 22:02 ex1.txt
+-rw-r--r-- 1 kgoel9899 kgoel9899     8980 Nov  8 03:12 examples.desktop
+-rw-rw-r-- 1 kgoel9899 kgoel9899  8279890 Mar  7 15:55 [01;35meYRC#SR#Task1_1#7453-lXkMY7FGalQ.mkv[0m
+-rw-rw-r-- 1 kgoel9899 kgoel9899  6740892 Mar  7 15:58 [01;35meYRC#SR#Task1_2#7453-geNXbAJd8H4.mkv[0m
+-rw-rw-r-- 1 kgoel9899 kgoel9899  6540339 Feb 29 13:07 [01;35meYRC#SR#Task3_1#7453.mp4[0m
+-rw-rw-r-- 1 kgoel9899 kgoel9899 28566946 Feb 29 13:11 [01;35meYRC#SR#Task3_2#7453.mp4[0m
+-rw-rw-r-- 1 kgoel9899 kgoel9899  8272878 Feb 29 13:13 [01;35meYRC#SR#Task4_1#7453.mp4[0m
+-rw-rw-r-- 1 kgoel9899 kgoel9899  1775835 Oct 18  2019 get-pip.py
+-rw-rw-r-- 1 kgoel9899 kgoel9899 62384620 Nov  6  2019 [01;31mgoogle-chrome-stable_current_amd64.deb[0m
+drwxr-xr-x 2 kgoel9899 kgoel9899     4096 Nov  8 08:44 [01;34mMusic[0m
+drwxr-xr-x 3 kgoel9899 kgoel9899     4096 Mar 11 13:35 [01;34mPictures[0m
+drwxr-xr-x 2 kgoel9899 kgoel9899     4096 Nov  8 08:44 [01;34mPublic[0m
+drwxrwxr-x 3 kgoel9899 kgoel9899     4096 May  7 21:55 [01;34ms0[0m
+drwxrwxr-x 3 kgoel9899 kgoel9899     4096 May  7 21:55 [01;34ms3[0m
+drwxr-xr-x 3 kgoel9899 kgoel9899     4096 Nov  8 01:27 [01;34msnap[0m
+drwxrwxr-x 2 kgoel9899 kgoel9899     4096 Feb  1 13:26 [01;34mtemp[0m
+drwxr-xr-x 2 kgoel9899 kgoel9899     4096 Nov  8 08:44 [01;34mTemplates[0m
+drwxr-xr-x 2 kgoel9899 kgoel9899     4096 Mar  8 14:24 [01;34mVideos[0m
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ mkdir home ../home
+mkdir: cannot create directory ‘home’: Permission denied
+mkdir: cannot create directory ‘../home’: File exists
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ mkdir home ../home/kgoel9899
+mkdir: cannot create directory ‘home’: Permission denied
+mkdir: cannot create directory ‘../home/kgoel9899’: File exists
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ mkdir home ../home/kgoel9899[K[C[C[C[1P ../home[1P ../home[1P ../home[1P ../homet ../homee ../homem ../homep ../home
+mkdir: cannot create directory ‘temp’: Permission denied
+mkdir: cannot create directory ‘../home’: File exists
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ mkdir temp ../home/kgoel9899
+mkdir: cannot create directory ‘temp’: Permission denied
+mkdir: cannot create directory ‘../home/kgoel9899’: File exists
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ mkdir temp[K[K[K[K[K[K[K[K[K[Kmkdir --help
+Usage: mkdir [OPTION]... DIRECTORY...
+Create the DIRECTORY(ies), if they do not already exist.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -m, --mode=MODE   set file mode (as in chmod), not a=rwx - umask
+  -p, --parents     no error if existing, make parent directories as needed
+  -v, --verbose     print a message for each created directory
+  -Z                   set SELinux security context of each created directory
+                         to the default type
+      --context[=CTX]  like -Z, or if CTX is specified then set the SELinux
+                         or SMACK security context to CTX
+      --help     display this help and exit
+      --version  output version information and exit
+
+GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+Full documentation at: <http://www.gnu.org/software/coreutils/mkdir>
+or available locally via: info '(coreutils) mkdir invocation'
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ mkdir -p ../home/kgoel9899/temp
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ mr[K[Krmdi[K[K -r ../home/kgoel9899/temp
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ cd
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: ~[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m~[00m$ ls
+3st.txt        ex1.txt                                 [0m[01;34mMusic[0m
+[01;34mabc.txt[0m        examples.desktop                        [01;34mPictures[0m
+[01;34mace[0m            [01;35meYRC#SR#Task1_1#7453-lXkMY7FGalQ.mkv[0m    [01;34mPublic[0m
+[01;34mArduino[0m        [01;35meYRC#SR#Task1_2#7453-geNXbAJd8H4.mkv[0m    [01;34ms0[0m
+[01;34mbash-wakatime[0m  [01;35meYRC#SR#Task3_1#7453.mp4[0m                [01;34ms3[0m
+[01;34mcatkin_ws[0m      [01;35meYRC#SR#Task3_2#7453.mp4[0m                [01;34msnap[0m
+[01;34mDesktop[0m        [01;35meYRC#SR#Task4_1#7453.mp4[0m                [01;34mTemplates[0m
+[01;34mDocuments[0m      get-pip.py                              [01;34mVideos[0m
+[01;34mDownloads[0m      [01;31mgoogle-chrome-stable_current_amd64.deb[0m
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: ~[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m~[00m$ push [Kd /etc
+/etc ~
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ pwd
+/etc
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: /etc[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m/etc[00m$ popd
+~
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: ~[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m~[00m$ pwd
+/home/kgoel9899
+]0;kgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D: ~[01;32mkgoel9899@kgoel9899-Lenovo-IdeaPad-S540-15IWL-D[00m:[01;34m~[00m$ exit
+exit
+
+Script done on Thursday 07 May 2020 10:14:52 PM IST
